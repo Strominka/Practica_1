@@ -1,0 +1,13 @@
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\bin\Debug\netcoreapp3.1\11.09.2020_practica.exe
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\bin\Debug\netcoreapp3.1\11.09.2020_practica.deps.json
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\bin\Debug\netcoreapp3.1\11.09.2020_practica.runtimeconfig.json
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\bin\Debug\netcoreapp3.1\11.09.2020_practica.runtimeconfig.dev.json
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\bin\Debug\netcoreapp3.1\11.09.2020_practica.dll
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\bin\Debug\netcoreapp3.1\11.09.2020_practica.pdb
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\obj\Debug\netcoreapp3.1\11.09.2020_practica.csprojAssemblyReference.cache
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\obj\Debug\netcoreapp3.1\11.09.2020_practica.AssemblyInfoInputs.cache
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\obj\Debug\netcoreapp3.1\11.09.2020_practica.AssemblyInfo.cs
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\obj\Debug\netcoreapp3.1\11.09.2020_practica.csproj.CoreCompileInputs.cache
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\obj\Debug\netcoreapp3.1\11.09.2020_practica.dll
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\obj\Debug\netcoreapp3.1\11.09.2020_practica.pdb
+C:\Users\sonin\Desktop\C#\11.09.2020_practica\obj\Debug\netcoreapp3.1\11.09.2020_practica.genruntimeconfig.cache
